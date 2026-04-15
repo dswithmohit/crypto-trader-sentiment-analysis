@@ -53,7 +53,7 @@ Trader Segmentation: sentiment impact across trader types
 
 Charts are saved in:
 
-outputs/
+outputs:
 Key Insights
 Trader PnL varies across market sentiment regimes
 Trading activity increases during Fear periods
